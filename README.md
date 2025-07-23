@@ -43,6 +43,7 @@ The **Problems** pane contains the errors found. The errors are also underlined 
       ```
       "markdownlint.config": {
         "MD007": { "indent": 4 },
+        "MD013": { "line_length": 100},
         "MD036": false,
         "MD049": { "style": "underscore" },
         "MD050": { "style": "asterisk" }
